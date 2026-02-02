@@ -1,0 +1,12 @@
+cs50 course is intro course, not foundation course.
+------------
+evidence for this
+------------
+- https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/CS50&ved=2ahUKEwip6ejdlbuSAxUeSPEDHVuiILQQFnoECDIQAQ&usg=AOvVaw1fm3nVVJnUM7SK9aUQwTfk
+- https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://harvardonline.harvard.edu/course/cs50-introduction-computer-science&ved=2ahUKEwip6ejdlbuSAxUeSPEDHVuiILQQFnoECDoQAQ&usg=AOvVaw3tL4-SZ9oqxdAl6SvG8DwR
+- https://youtu.be/YTSv8Z74fc8?si=AaFqQnHLJvuVyNRs
+- https://youtu.be/Dd5qgDTWEAc?si=lZfaOXmOGj6B0AbZ
+-------------
+Note
+-------------
+many humans think that cs50 course is foundation course and then learn this course they learn programming specialization ex: fullstack dev, desktop dev, cyper sec, .... and then their fail becuase they learned supeficL things in programming and their they were not founded true way becuase cs50 is intro course therfor you shoud know that cs50 is intro couse no foundation course.. 
