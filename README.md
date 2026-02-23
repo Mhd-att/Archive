@@ -9,8 +9,8 @@
   done -008-<br>
   done -009- [kb001]<br> 
   done -010- [kb002]<br>
-  done -011- [kb003] <br>
-  done -012- [kb004] <br>
+  done -011- [kb003] completed course 1 <br>
+  done -012- [kb004] into course 1 <br>
   done -013- [kb005] <br>
   done -014- [kb006] <br>
   done -015- [kb007] <br>
